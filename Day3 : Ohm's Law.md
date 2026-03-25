@@ -11,5 +11,6 @@ I = V/R
 R = V/I
 
 **Why  we need Ohm's law ?**
+
 Ohm's law helps in analyzing electrical circuits and ensures that the circuit behaves properly .
 It is the fundamental law is used in all electrical circuits.
