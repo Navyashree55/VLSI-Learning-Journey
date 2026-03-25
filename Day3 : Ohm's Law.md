@@ -1,6 +1,5 @@
 # Ohm's Law
-Ohm's law states that the flow of current through the conductor is directly proportional to the potential difference across it 
-and inversly proportional resistance (constant temperature).
+Ohm's law states that the flow of current through a conductor is directly proportional to the potential difference across it and inversly proportional to resistance (constant temperature).
 
 
 **Formula :**
