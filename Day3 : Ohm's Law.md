@@ -2,9 +2,12 @@
 Ohm's law states that the flow of current through the conductor is directly proportional to the potential difference across it 
 and inversly proportional resistance (constant temperature).
 
+
 **Formula :**
 V = IR
+
 I = V/R
+
 R = V/I
 
 **Why  we need Ohm's law ?**
