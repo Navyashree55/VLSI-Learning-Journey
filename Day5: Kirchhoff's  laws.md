@@ -4,10 +4,10 @@
 
 - KCL states that the sum of currents entering a junction is equal to the sum of currents leaving the junction.
 
-Formula:
+**Formula:**
 Σ I_in = Σ I_out
 
-Insight:
+**Insight:**
 Charge is conserved at a node
 
 ---
@@ -16,8 +16,8 @@ Charge is conserved at a node
 
 - KVL states that the algebraic sum of all voltages in a closed loop is equal to zero
 
-Formula:
+**Formula:**
 Σ V = 0
 
-Insight:
+**Insight:**
 Total voltage rise = total voltage drop (energy is conserved)
