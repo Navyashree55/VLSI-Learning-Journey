@@ -107,3 +107,4 @@ Resistance = 52 × 10⁶ = 52 MΩ
 ## Key Insight
 - Higher resistance → lower current
 - Resistors are fundamental components used in all electronic circuits
+- A resistor is a non-polarized component, so it does not have positive and negative terminals.
