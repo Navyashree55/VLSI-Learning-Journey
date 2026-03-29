@@ -13,7 +13,7 @@ This repository contains my learning journey in Electronics and VLSI.
 - Covering both theory and practical understanding
 
 ## Topics Covered
-- Basics (Charge, Current, Voltage)
+- Fundamentals of electronics
 - Circuit Laws
 - Components
 - Digital Electronics
