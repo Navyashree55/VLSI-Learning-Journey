@@ -16,8 +16,11 @@ The Bipolar Junction Transistor (BJT) is a semiconductor device used for:
 A BJT consists of three regions:
 
 Region| Doping Level| Function
+
 Emitter (E)| Heavily doped| Injects charge carriers
+
 Base (B)| Thin & lightly doped| Controls carrier flow
+
 Collector (C)| Moderately doped| Collects carriers
 
 ---
