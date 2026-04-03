@@ -12,7 +12,7 @@
 
 ---
 
-## Early Effect — Detailed Explanation
+## Early Effect (Base width modulation)
 
 1. The increase in reverse bias at the collector-base junction causes the depletion region at that junction to widen.  
 2. This eats into the base from the collector side, so the effective base width becomes thinner.  
