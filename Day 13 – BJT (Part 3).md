@@ -72,6 +72,9 @@ A BJT acts as a switch by operating in two extreme regions.
 - IC is maximum  
 - Transistor behaves like a closed switch  
 
+**Why BJT is a current controlled device ?**
+The output current (collector current ) is controlled by base current .
+
 ### Applications
 - Digital circuits  
 - Logic gates  
