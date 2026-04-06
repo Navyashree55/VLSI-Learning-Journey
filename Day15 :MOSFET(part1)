@@ -1,0 +1,75 @@
+##  Introduction
+**MOSFET (Metal Oxide Semiconductor Field Effect Transistor)**  
+- Voltage-controlled device  
+- Applications:
+  - Amplification  
+  - Switching  
+  - Digital circuits  
+
+---
+
+## Types of MOSFET
+
+### 1. Based on Channel
+- **NMOS** (n-channel MOSFET)  
+- **PMOS** (p-channel MOSFET)  
+
+## 2. Based on Mode
+
+## Enhancement Mode MOSFET (E-MOSFET)
+
+## Depletion Mode MOSFET (D-MOSFET)
+---
+
+## Structure of MOSFET
+- Gate is separated by an **oxide layer (SiO₂)**
+- Source and Drain are heavily doped regions
+- Substrate (body) forms the base
+
+---
+
+## Working of MOSFET (NMOS Example)
+
+## Case 1: Gate Voltage = 0 (Vgs = 0)
+- No electric field is created  
+- No channel is formed between source and drain  
+- No current flows  
+- MOSFET acts as **OFF (open switch)**  
+
+---
+
+### Case 2: Gate Voltage Applied (Vgs > Vth)
+- Electric field is created  
+- Electrons are attracted toward the gate region  
+- A conductive channel is formed  
+- Current can flow → MOSFET is **ON**
+
+---
+
+##  Role of Drain Voltage
+
+After channel formation:
+- Apply voltage between **Drain and Source (Vds)**  
+- Electrons move due to this voltage  
+
+## Current Flow:
+- **Conventional current:** Drain → Source  
+- **Electron flow:** Source → Drain  
+
+---
+
+## Why MOSFET is a Voltage-Controlled Device
+
+MOSFET is called a voltage-controlled device because:
+
+- The **gate is insulated** from the channel by an oxide layer  
+- This gives **very high input impedance**  
+- **No current flows into the gate**  
+
+When voltage is applied at the gate:
+- An **electric field** is created  
+- This field controls the formation of a **conductive channel** between source and drain  
+
+Hence, **output current is controlled by gate voltage, not gate current**
+
+---
