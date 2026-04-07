@@ -1,6 +1,4 @@
- 
-
-**Overview**
+ **Overview**
 
 The Bipolar Junction Transistor (BJT) is a semiconductor device used for:
 
