@@ -1,0 +1,62 @@
+## Applications of Op-Amps
+
+- Integrators  
+- Differentiators  
+- Comparators  
+- Oscillators  
+- Active Filters  
+- Summing Amplifiers  
+
+---
+
+## Voltage Follower (Buffer)
+
+### Description
+- Output is directly connected to inverting terminal
+- No external resistors required
+
+### Formula
+Vo = Vi
+
+### Features
+- Gain = 1  
+- High input impedance  
+- Low output impedance  
+
+---
+
+## Difference Amplifier
+
+### Output Equation
+Vo = (R2 / R1) (V2 - V1)
+
+### Key Points
+- Amplifies the difference between two inputs  
+- Rejects common signals (common-mode rejection)  
+
+---
+
+## Summing Amplifier
+
+### Output Equation
+Vo = -[(Rf/R1)V1 + (Rf/R2)V2 + (Rf/R3)V3]
+
+### Key Points
+- Adds multiple input voltages  
+- Output is inverted  
+
+---
+
+## CMOS vs Bipolar Op-Amps Comparison
+
+| Parameter | CMOS | Bipolar |
+|----------|------|--------|
+| Input Impedance | High | Low |
+| Input Offset Voltage | Low | High |
+| Output Voltage Swing | High | Low |
+| Power Dissipation | Low | High |
+| Breakdown Voltage | Low | High |
+| Operating Speed | Low | High |
+| Noise | Higher than BJT | Low |
+
+---
